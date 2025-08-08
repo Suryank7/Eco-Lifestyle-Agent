@@ -1,7 +1,6 @@
-Tools & Technologies Used
-
-IBM Watsonx Assistant – For creating the eco-friendly chatbot with natural language capabilities.
-
-IBM Watsonx.ai Studio – Used for planning, prompt testing, and refining agent responses.
-
-IBM Cloud – Hosted the assistant securely and ensured smooth deployment.
+Watsonx.ai – Powered the Retrieval-Augmented Generation (RAG) setup, enabling intelligent and contextual response generation.
+Agentic AI Architecture – Structured the chatbot to act autonomously by combining memory, reasoning, and retrieval for a more personalized and dynamic eco-assistant experience.
+IBM Watsonx Assistant – Built the eco-friendly chatbot with natural language understanding and conversation design.
+IBM Watsonx.ai Studio – Used for agent planning, prompt testing, and refining smart, personalized responses.
+IBM Cloud – Deployed and hosted the chatbot securely, enabling smooth integration and scalability.
+IBM Granite Model – Leveraged as the core foundation model for generating high-quality, human-like responses within the agent.
